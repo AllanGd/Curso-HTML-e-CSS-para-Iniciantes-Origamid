@@ -1,0 +1,23 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;  
+}
+
+h2 {
+  color: white;
+}
+
+span {
+  color: #febe01;
+}
+
+.container {
+  background-color: #111;
+}
+
+.texto {
+  color: #b2b2b2;
+}
